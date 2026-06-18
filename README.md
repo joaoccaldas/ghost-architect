@@ -1,15 +1,5 @@
-# Ghost Architect
-
-Landing page for Protocolo Nexus.
-
-## Getting Started
-
-Open `index.html` in a browser.
-
-## Author
-
-Joao Caldas
-
-## License
-
-MIT
+IyBHaG9zdCBBcmNoaXRlY3QKCipqTGFuZGluZyBQYWdlIGZvciBQcm90b2Nv
+bG8gTmV4dXMqKgoKQSBzaW1wbGUgbGFuZGluZyBwYWdlIGJ1aWx0IGZvciBQ
+cm90b2NvbG8gTmV4dXMgcHJvamVjdC4KCiMjIFN0YXR1cwpDb21wbGV0ZS4g
+TGFuZGluZyBwYWdlIGZvciBwcm9kdWN0IHByZXNlbnRhdGlvbi4KCioiQnVpbHQg
+YnkgSm/Do28gQ2FsZGFzIHwgam9hb2NjYWxkYXNAZ21haWwuY29tIio=
