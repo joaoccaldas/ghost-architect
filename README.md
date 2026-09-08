@@ -1,5 +1,17 @@
-IyBHaG9zdCBBcmNoaXRlY3QKCipqTGFuZGluZyBQYWdlIGZvciBQcm90b2Nv
-bG8gTmV4dXMqKgoKQSBzaW1wbGUgbGFuZGluZyBwYWdlIGJ1aWx0IGZvciBQ
-cm90b2NvbG8gTmV4dXMgcHJvamVjdC4KCiMjIFN0YXR1cwpDb21wbGV0ZS4g
-TGFuZGluZyBwYWdlIGZvciBwcm9kdWN0IHByZXNlbnRhdGlvbi4KCioiQnVpbHQg
-YnkgSm/Do28gQ2FsZGFzIHwgam9hb2NjYWxkYXNAZ21haWwuY29tIio=
+# Ghost Architect
+
+**Landing page for Protocolo Nexus.** A focused, single-page product presentation site.
+
+- Live: https://joaoccaldas.github.io/ghost-architect/
+
+## Tech
+
+Static HTML/CSS, hosted on GitHub Pages.
+
+## Status
+
+Complete — used as the product's landing page.
+
+---
+
+Built by [João Caldas](https://github.com/joaoccaldas).
