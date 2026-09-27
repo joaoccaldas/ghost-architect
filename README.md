@@ -1,5 +1,17 @@
-IyBHaG9zdCBBcmNoaXRlY3QKCipqTGFuZGluZyBQYWdlIGZvciBQcm90b2Nv
-bG8gTmV4dXMqKgoKQSBzaW1wbGUgbGFuZGluZyBwYWdlIGJ1aWx0IGZvciBQ
-cm90b2NvbG8gTmV4dXMgcHJvamVjdC4KCiMjIFN0YXR1cwpDb21wbGV0ZS4g
-TGFuZGluZyBwYWdlIGZvciBwcm9kdWN0IHByZXNlbnRhdGlvbi4KCioiQnVpbHQg
-YnkgSm/Do28gQ2FsZGFzIHwgam9hb2NjYWxkYXNAZ21haWwuY29tIio=
+# Ghost Architect
+
+*jLanding Page for Protocolo Nexus**
+
+A simple landing page built for Protocolo Nexus project.
+
+## Status
+Complete. Landing page for product presentation.
+
+*"Built by João Caldas | joaoccaldas@gmail.com"*
+
+## Project context
+
+This is a personal, self-directed learning project by João Caldas. I learn by building real projects, comparing approaches, debugging failures, and documenting what I discover.
+
+AI tools are used extensively during research, design, coding, debugging, testing, and documentation as part of that learning process. AI-generated suggestions are treated as inputs to review, not proof of correctness. Important behavior, claims, security boundaries, and data handling should be tested and documented.
+
